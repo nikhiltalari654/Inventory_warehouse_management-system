@@ -6,7 +6,8 @@ import requests
 # SETTINGS
 # --------------------------------------------------
 
-API_URL = "https://inventory-warehouse-management-system-jos6.onrender.com/docs"
+
+API_URL = "https://inventory-warehouse-management-system-jos6.onrender.com"
 
 
 # --------------------------------------------------
